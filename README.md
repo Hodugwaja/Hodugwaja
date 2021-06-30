@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm JaeGwanLee</h1>
 <h3 align="center">I'm a Frontend Developer. I'm belong at DSM from 2019</h3>
+<h3 align="center">대덕소프트에어 마이스터고 개발자입니다(초심 찾는 중)</h3>
+
 
 - 🌱 My major was **React**
 
