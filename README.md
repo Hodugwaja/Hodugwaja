@@ -22,7 +22,7 @@ Position : Frontend, Backend, DBA
 ## Contact me
 Email : honeybutter9250@gmail.com
 <br>
-Discord : Hutaogwaja#0
+[![Discord Presence](https://lanyard.cnrad.dev/api/848579486236672001)](https://discord.com/users/848579486236672001)
 <br>
 <br>
 
